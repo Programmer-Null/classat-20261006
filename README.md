@@ -1,7 +1,7 @@
 # 语言/language
 Read this in other language.
-|Language|Link|
-|Chinese Simpile|null|
+
+[Chinese Simpile](https://github.com/Programmer-Null/classat-20261006/tree/main#%E9%A1%B9%E7%9B%AEclassat-20261006)
 
 # 项目：classat-20261006
 ## 作者简介
